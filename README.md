@@ -4,7 +4,7 @@ ENGLISH
 - 👀 I’m interested in develop automation projects.
 - 🌱 I’m currently learning C and C++.
 - 💞️ I’m looking to collaborate on projects involving AI, Arduino and ESP32.
-- 📫 How to reach me: @joaofelix25 for Instagram or
+- 📫 How to reach me: @joaofelix.eng for Instagram or
  https://br.linkedin.com/in/jo%C3%A3o-victor-felix-4a8364216
 
 PT-BR
@@ -12,7 +12,7 @@ PT-BR
 - 👀 Tenho interesse em desenvolver projetos de automação.
 - 🌱 Atualmente estou aprendendo C e C++.
 - 💞️ Procuro colaborar em projetos envolvendo IA, Arduino e ESP32.
-- 📫 Como entrar em contato comigo: @joaofelix25 para Instagram ou
+- 📫 Como entrar em contato comigo: @joaofelix.eng para Instagram ou
    https://br.linkedin.com/in/jo%C3%A3o-victor-felix-4a8364216
 
 
